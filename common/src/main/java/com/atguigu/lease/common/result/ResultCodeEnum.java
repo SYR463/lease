@@ -1,4 +1,4 @@
-package com.atguigu.lease.common.Result;
+package com.atguigu.lease.common.result;
 
 import lombok.Getter;
 
